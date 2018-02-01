@@ -1,4 +1,4 @@
-# README
+# The hacking pinterest
 
 ## Excercice sur les interactions entre bases de données.
 
